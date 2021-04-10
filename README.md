@@ -33,4 +33,4 @@ JavaScript:
 * Adding time loop blocks.
 * Adding function to save input items in local storage.
 
-![Webpage preview](Assets\images\05-Work-Day-Scheduler.png)
+![Webpage preview](./Assets/images/05-Work-Day-Scheduler.png)
