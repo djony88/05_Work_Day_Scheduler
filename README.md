@@ -6,7 +6,7 @@ UCSD-SD-FSF-PT-03-2021-U-C-MW
 
 [GitHub link](https://github.com/djony88/05_Work_Day_Scheduler)
 
-[Published Webpage](https://djony88.github.io/05_Work_Day_Scheduler/)
+[Published Webpage](https://djony88.github.io/Work_Day_Scheduler/)
 
 Requirements:
 
